@@ -7,6 +7,8 @@ target/
 # Spring Boot configuration files containing secrets
 **/application-dev.properties
 **/application.properties
+Dockerfile
+docker-compose.yml
 .env
 
 ### STS ###
